@@ -1,2 +1,2 @@
 # Machine-Learning
-Implementation of interesting Machine Learning and Recommendations Algorithms
+Implementation of interesting Machine Learning and Recommendation Algorithms
